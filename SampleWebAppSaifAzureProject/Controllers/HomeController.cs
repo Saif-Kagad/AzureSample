@@ -15,7 +15,7 @@ namespace SampleWebAppSaifAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Saif Kagad's Page !!";
+            ViewBag.Message = "Saif Kagad's Page !! Updated";
 
             return View();
         }
